@@ -8,7 +8,6 @@
             "email": "2rajpx@gmail.com"
         }
     ],
-	"minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "2jpx\\helper\\": "src/"
