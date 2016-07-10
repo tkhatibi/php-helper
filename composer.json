@@ -1,0 +1,16 @@
+{
+    "name": "2rajpx/wp-assistant",
+    "description": "Some useful php classes",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tooraj Khatibi",
+            "email": "2rajpx@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "2jpx\\helper": "src/"
+        }
+    }
+}
