@@ -1,6 +1,6 @@
 <?php
 
-namespace 2jpx\base;
+namespace tjpx\base;
 
 /**
  * @link https://github.com/2rajpx/php-easyfield/

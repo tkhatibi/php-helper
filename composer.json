@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "2jpx\\helper\\": "src/"
+            "tjpx\\helper\\": "src/"
         }
     },
 	"minimum-stability": "dev"

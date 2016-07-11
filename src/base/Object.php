@@ -6,7 +6,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace 2jpx\helper;
+namespace tjpx\helper;
 
 /**
  * @author Qiang Xue <qiang.xue@gmail.com>
